@@ -31,13 +31,5 @@ A personal journal-keeping web application built with **React** and **Node.js/Ex
 | Mongoose   | MongoDB ODM         |
 
 ---
-### 🖼️ App Snapshots
 
-**Home Page**
-
-![Home Page](./screenshots/home-page.jpg)
-
-**Add Entry Form**
-
-![Form Page](./screenshots/entry-form.png)
 
